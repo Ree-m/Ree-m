@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Manga Verse](https://manga-verse.onrender.com/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript and SQL**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-mauve-alpha.vercel.app/](https://my-portfolio-mauve-alpha.vercel.app/)
 
