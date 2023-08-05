@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and SQL**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-mauve-alpha.vercel.app/](https://my-portfolio-mauve-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://reembsrat.com/](http://reembsrat.com/)
 
 - 💬 Ask me about **Express.js**
 
