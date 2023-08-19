@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [resume link](https://docs.google.com/document/d/1pMBTUcEZKXAW2x6m0dO98tFlpEhjpAeS3cmgMtKhOMQ/edit?usp=sharing)
 
-- ⚡ Fun fact **chocolate is the best thing on earth**
+- ⚡ Fun fact **Ice cream is the best thing on earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
