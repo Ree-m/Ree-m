@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reem Bsrat</h1>
 <h3 align="center">A full-stack software developer.</h3>
 
-- 🔭 I’m currently working on [Manga Verse](https://manga-verse.onrender.com/)
 
 - 🌱 I’m currently learning **Typescript and SQL**
 
