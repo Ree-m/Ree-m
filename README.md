@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Reem Bsrat</h1>
-<h3 align="center">A full-stack software developer.</h3>
+<h3 align="center">A software developer.</h3>
 
 
 - 🌱 I’m currently learning **Typescript and SQL**
